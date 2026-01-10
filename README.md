@@ -1,1 +1,1 @@
-This was a project where I created a dataset from surveying random sample of students recording various metric to predict GPA.
+Created a student survey dataset by collecting a random sample of responses across multiple academic and lifestyle metrics, then used it to build a model to predict GPA.
